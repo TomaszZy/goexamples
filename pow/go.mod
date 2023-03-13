@@ -1,3 +1,3 @@
-module https://github.com/TomaszZy/goexamples/pow/pow.go
+module github.com/TomaszZy/goexamples/pow
 
 go 1.19
